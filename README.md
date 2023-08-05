@@ -5,6 +5,12 @@
 ### The script can solve the problem that ProxmoxVE can not update the source list
 
 ### 解決 ProxmoxVE 無法更新的問題
+```
+Problem: TASK ERROR: command 'apt-get update' failed: exit code 100
+```
+<img width="323" alt="image" src="https://github.com/kevinjone25/ProxmoxVE_Upgrade/assets/64208218/33a08288-49f5-4080-9680-5e150ddb5426">
+
+
 
 &nbsp;
 
